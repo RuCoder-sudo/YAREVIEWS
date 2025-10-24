@@ -1,0 +1,31 @@
+.wp-block-yareviews-slider,
+.wp-block-yareviews-badge,
+.wp-block-yareviews-grid {
+    border: 2px dashed #667eea;
+    padding: 20px;
+    border-radius: 8px;
+    background: #f8f9fa;
+    margin: 20px 0;
+}
+
+.wp-block-yareviews-slider::before,
+.wp-block-yareviews-badge::before,
+.wp-block-yareviews-grid::before {
+    content: 'YAREVIEWS: ';
+    font-weight: bold;
+    color: #667eea;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.wp-block-yareviews-slider::before {
+    content: 'YAREVIEWS: Слайдер отзывов';
+}
+
+.wp-block-yareviews-badge::before {
+    content: 'YAREVIEWS: Плавающий бейдж';
+}
+
+.wp-block-yareviews-grid::before {
+    content: 'YAREVIEWS: Сетка отзывов';
+}
