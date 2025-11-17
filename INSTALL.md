@@ -171,13 +171,6 @@
 
 Каждый виджет поддерживает настройку акцентного цвета через color picker в админке.
 
-## Поддержка
-
-Если возникли проблемы:
-- Email: support@yareviews.com
-- Документация: https://yareviews.com/docs
-- GitHub: https://github.com/yareviews/plugin
-
 ---
 
-© 2025 YAREVIEWS Team
+© 2025 RuCoder Team
